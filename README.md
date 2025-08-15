@@ -100,15 +100,20 @@ This allows resuming past comparisons or batch-testing different environments.
 
 ---
 
+## Screenshots 
+
+<img width="1257" height="612" alt="image" src="https://github.com/user-attachments/assets/04875ac2-00b8-404c-adf4-7b144c4e5450" />
+
+<img width="1257" height="612" alt="image" src="https://github.com/user-attachments/assets/d8b61ce3-cc7f-4874-b6ee-e993cc236278" />
+
+<img width="1257" height="612" alt="image" src="https://github.com/user-attachments/assets/e362e41e-2945-44cd-8229-97cd66a29d9c" />
+
+<img width="1257" height="612" alt="image" src="https://github.com/user-attachments/assets/5a563a6d-b553-475f-871d-bd3758a6a5ef" />
+
+
 ## 🤝 Contributing
 
 Feel free to submit issues or open PRs to enhance comparison logic, data visualization, or support for more DBs.
-
----
-
-## 📄 License
-
-MIT License
 
 ---
 
